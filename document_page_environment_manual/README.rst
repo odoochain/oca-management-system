@@ -23,9 +23,11 @@ Document Management - Wiki - Environment Manual
     :target: https://runbot.odoo-community.org/runbot/128/15.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module adds a menu Environment Manual and a wiki document page category.
+
+该模块添加了菜单环境手册和 wiki 文档页面类别。
 
 **Table of contents**
 

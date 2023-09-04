@@ -23,9 +23,11 @@ Management System - Review
     :target: https://runbot.odoo-community.org/runbot/128/15.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module was written to help you manage the top management reviews of your systems.
+
+本模块旨在帮助您管理系统的最高管理层审查。
 
 **Table of contents**
 

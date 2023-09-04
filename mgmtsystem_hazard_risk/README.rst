@@ -23,10 +23,12 @@ Hazard Risk
     :target: https://runbot.odoo-community.org/runbot/128/15.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 
 This module enables you to manage the risks of your health and safety management system. This is a sub module of management system hazard.
+
+该模块使您能够管理健康和安全管理系统的风险。这是管理系统危害的一个子模块。
 
 **Table of contents**
 
